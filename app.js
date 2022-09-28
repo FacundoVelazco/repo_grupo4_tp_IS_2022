@@ -10,8 +10,4 @@ console.writeln("Otro cambio -- modificacion original sobre release1 E.2.e");
 
 console.writeln("Otro cambio -- modificacion original sobre release2 E.2.f");
 
-//modificacion A
 let text = console.readString("Ingrese un texto (2.j) ....");
-
-//modificacion B
-console.writeln(text);
