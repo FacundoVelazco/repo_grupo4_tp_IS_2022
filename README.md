@@ -1,5 +1,6 @@
 # repo_grupo4_tp_IS_2022
-
+## Integrantes:
+Facundo Velazco - Tomas Auday - German Vanni - Sofia Nuñez
 ## Objetivos: 
 Repositorio de la aplicación del trabajo práctico 1 de Ingeniería de Software del grupo 4. Este trabajo nos permite familiarizarnos con la gestión de versiones mediante el uso de git, github y el modelo gitflow.
 
